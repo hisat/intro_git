@@ -1,8 +1,7 @@
-Gitの練習をしていきます。
-変更を加えます。
-・git add
-・git commit
-・git rm
+Training for git
+git add
+git commit
+git rm
 
-さらに変更
+more change
 git diff
