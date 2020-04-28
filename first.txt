@@ -5,3 +5,4 @@ Git‚Ì—ûK‚ğ‚µ‚Ä‚¢‚«‚Ü‚·B
 Egit rm
 
 ‚³‚ç‚É•ÏX
+git diff
